@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+body {
+    background-color: #E6E6E6;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 24px;
+}
+
+.no-style {
+    list-style-type: none;
+}
+
+.align-top {
+    vertical-align: top;
+}
+
+.inline {
+    display: inline-block;
+    margin-left: 4px;
+}
+
+.li-margin {
+    margin-bottom: 16px;
+}
+
+li {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-bottom: 4px;
+}
+
+header {
+    background-color: #FFE21A;
+    background-image: url('../img/js_banner.png');
+    background-repeat: no-repeat;
+    background-position-x: 505px;
+    background-size: contain;
+}
+
+header > img {
+    display: block;
+}
+
+h1, h2 {
+    background-color: #222222;
+    color: #FFE21A;
+    font-weight: bold;
+    letter-spacing: 0.6ch;
+    word-spacing: 1.2ch;
+}
+
+h1 {
+    font-style: normal;
+    font-size: 32px;
+    text-align: center;
+}
+
+h2 {
+    font-style: normal;
+    font-size: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding-left: 16px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+
+main {
+    background-color: #BCB6AE;
+    padding-left: 7.11%;
+    padding-right: 5.5%;
+}
+
+#main {
+    margin-left: 13%;
+    margin-right: 13%;
+    padding-bottom: 48px;
+    padding-top: 48px;
+}
+
+ul {
+    margin-left: 5%;
+    margin-bottom: 4px;
+}
+
+footer {
+    background-color: #073E55;
+    color: #FFE21A;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    margin-bottom: 24px;
+}
+
+footer > * {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    width: 338px;
+}
+
+footer a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.fa-linkedin {
+    color: #FFE21A;
+    font-size: 70px;
+}
+
+.fa-instagram-square {
+    color: #FFE21A;
+    font-size: 70px;
+}
+
+.fa-github-square {
+    color: #FFE21A;
+    font-size: 70px;
+}
+
+.fa-twitter-square {
+    color: #FFE21A;
+    font-size: 70px;
+}
+
+.last {
+    text-align: center;
+    padding-bottom: 16px;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #073E55;
+}
+
+a:hover {
+    font-family: 'Open Sans', sans-serif;
+    color: #FFE21A;
+    font-weight: bold;
+}
+
+.gigante {
+    font-size: 24px;
+    line-height: 48px;
+}
